@@ -2,20 +2,20 @@
 
 This project is guided by Vimal Daga Sir under IIEC RISE Specialization in Python.
 
-Peronal_Assistant is bot that can open os based application and external installed application simply by requesting to do so.
-The objective of assistant to open application that user requested.
+Peronal_Assistant is a bot that can open os based applications and external installed applications simply by requesting to do so.
+The objective of the assistant to open the application that the user requested.
 
 ## Features of Persnal_Assistant:
 1. It can speak the instructions.
-2. It has female voice.
-3. It can open most of operating system based applications.
+2. It has a female voice.
+3. It can open most of the operating system based applications.
 4. It may open the external installed applications.
 5. Easy to use.
-6. Easy to establish in system.
-7. Speaks at medium rate.
+6. Easy to establish in the system.
+7. Speaks at a medium rate.
   
 ## Note: 
-The User have to set the path of external installed applications if he/she wants to open it from Personal_Assistant.
+The user has to set the path of external installed applications if he/she wants to open it from Personal_Assistant.
 
 ### Modules used:
 1. os module
@@ -26,10 +26,10 @@ The User have to set the path of external installed applications if he/she wants
 Python3.8
   
 ### List of applications that Personal_Assistant can open:
-1. Chrome Browser : With website or Home page (without any website)
+1. Chrome Browser: With website or Home page (without any website)
 2. Wordpad (Text editor)
 3. Jupyter Notebook
-4. Oracle Virtual Machine : Perticular Virtual Machine ex: Rhel8_Enterprise (if you have already created it) or Home of virtual machine
+4. Oracle Virtual Machine: Particular Virtual Machine ex: Rhel8_Enterprise (if you have already created it) or Home of the virtual machine
 5. Microsoft Word
 6. Microsoft Excel
 7. Microsoft Power Point
@@ -69,6 +69,6 @@ Python3.8
 41. Firewall
 42. Advanced Security
 43. Work Folders
-44. Automization Manager
+44. Authorization Manager
 45. Color Management
 46. Date
