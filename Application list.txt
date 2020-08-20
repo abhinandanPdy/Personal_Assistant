@@ -46,6 +46,6 @@
 41 Firewall
 42 Advanced Security
 43 Work Folders
-44 Automization Manager
+44 Authorization Manager
 45 Color Management
 46 Date

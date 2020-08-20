@@ -213,7 +213,8 @@ while re_start:
             os.system("Netplwiz")
         elif ("windows" in request or "windows" in request) and "features" in request:
             os.system("OptionalFeatures")
-        elif "on" in request and "screen" in request and "keyboard" in request:
+        elif "on" in request and "screen" in request and "keyboard" in request or\
+                ("on-sereen" in request and "keyboard" in request):
             os.system("osk")
         elif ("performance" in request and "monitor" in request) or ("performance" in request and "system" in request):
             os.system("perfmon")
