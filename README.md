@@ -23,7 +23,7 @@ The user has to set the path of external installed applications if he/she wants 
 3. webbrowser module
   
 ### Programming Language used:
-Python3.8
+Python 3.8
   
 ### List of applications that Personal_Assistant can open:
 1. Chrome Browser: With website or Home page (without any website)
